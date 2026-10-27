@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://github.com/TRACE-LAB-WPI/Awesome-Causality-and-LLMs/blob/268a626aacca1de87b6d3a088bb73d44b74cbf0e/logo.png"
+    alt="TRACE"
+    width="80%"
+  />
+</p>
+
 # Awesome-Causality-and-LLMs
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
