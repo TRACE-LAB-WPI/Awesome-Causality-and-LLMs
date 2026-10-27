@@ -17,7 +17,7 @@
 This repository accompanies the survey **“Causality and Large Language Models: A Survey of System Design, Capabilities, Trustworthiness, and Applications”** by Samar Kale, Vineeth Bekal, Aman Chadha, and Raha Moraffah.
 
 - **Paper:** unpublished manuscript (link coming soon)
-- **Project website:** coming soon
+- **Project website:** [Causality and LLM](https://trace-lab-wpi.github.io/Causality-and-LLM/)
 
 ## Reference
 
